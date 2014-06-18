@@ -7,6 +7,9 @@ Microphone = function(options) {
     this.audioResource;
 
     this.load(options);
+
+    //this.micInfo = new ReactiveDict();
+    //require 
 };
 
 
