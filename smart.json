@@ -1,0 +1,7 @@
+{
+    "packages": {
+        "MicrophoneFlash": {
+            "git": "git@github.com:flowkey/MicrophoneF.git"
+        }
+    }
+}
